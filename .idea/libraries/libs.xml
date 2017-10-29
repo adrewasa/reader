@@ -1,0 +1,28 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../libs/import/commons-cli" />
+      <root url="file://$PROJECT_DIR$/../libs/import/commons-io" />
+      <root url="file://$PROJECT_DIR$/../libs/import/commons-lang" />
+      <root url="file://$PROJECT_DIR$/../libs/import/httpcomponents-client" />
+      <root url="file://$PROJECT_DIR$/../libs/import/json" />
+      <root url="file://$PROJECT_DIR$/../libs/import/junit" />
+      <root url="file://$PROJECT_DIR$/../libs/import/log" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../libs/import/httpclient/httpcomponents-client-4.5.3-bin/httpcomponents-client-4.5.3/examples" />
+      <root url="file://$PROJECT_DIR$/../libs/import/commons-cli" />
+      <root url="file://$PROJECT_DIR$/../libs/import/httpclient" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../libs/import/commons-cli" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../libs/import/commons-io" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../libs/import/commons-lang" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../libs/import/httpcomponents-client" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../libs/import/json" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../libs/import/junit" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../libs/import/log" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../libs/import/commons-cli" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../libs/import/httpclient" recursive="false" type="SOURCES" />
+  </library>
+</component>

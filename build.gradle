@@ -1,0 +1,12 @@
+apply plugin: 'java'
+
+// 文件依赖
+dependencies {
+    compile fileTree(dir: "..", include: 'libs/import/**/*.jar')
+}
+
+// 编译jar包名字
+jar {
+    baseName = 'com.asa.reader'
+    version = '1.0'
+}
